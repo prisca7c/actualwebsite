@@ -1,6 +1,6 @@
 "use client"
 
-import { useChat } from "ai/react"
+import { useChat } from "ai"
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card"
 import { Button } from "./ui/button"
 import { Input } from "./ui/input"
